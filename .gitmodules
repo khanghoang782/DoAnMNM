@@ -1,0 +1,6 @@
+[submodule "pizzaOrders"]
+	path = pizzaOrders
+	url = https://github.com/khanghoang782/PizzaOrdersService.git
+[submodule "pizzaUI"]
+	path = pizzaUI
+	url = https://github.com/khanghoang782/pizzaUI.git

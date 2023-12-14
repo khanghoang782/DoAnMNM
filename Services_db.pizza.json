@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "655f24e74acb1ad3dcb52948"
+  },
+  "index_id": 1,
+  "food_name": "Vegetarian Pizza",
+  "unit": [
+    "X",
+    "XL",
+    "XXL"
+  ],
+  "category": "Pizza",
+  "prices": {
+    "X": 10.99,
+    "XL": 13.99,
+    "XXL": 16.99
+  }
+},
+{
+  "_id": {
+    "$oid": "655f24e74acb1ad3dcb52949"
+  },
+  "index_id": 3,
+  "food_name": "BBQ Chicken Pizza",
+  "unit": [
+    "X",
+    "XL",
+    "XXL"
+  ],
+  "category": "Pizza",
+  "prices": {
+    "X": 12.99,
+    "XL": 15.99,
+    "XXL": 18.99
+  }
+},
+{
+  "_id": {
+    "$oid": "655f24e74acb1ad3dcb5294a"
+  },
+  "index_id": 4,
+  "food_name": "Spinach and Feta Pizza",
+  "unit": [
+    "X",
+    "XL",
+    "XXL"
+  ],
+  "category": "Pizza",
+  "prices": {
+    "X": 13.99,
+    "XL": 16.99,
+    "XXL": 19.99
+  }
+},
+{
+  "_id": {
+    "$oid": "655f24e74acb1ad3dcb5294b"
+  },
+  "index_id": 5,
+  "food_name": "Meat Lovers Pizza",
+  "unit": [
+    "X",
+    "XL",
+    "XXL"
+  ],
+  "category": "Pizza",
+  "prices": {
+    "X": 14.99,
+    "XL": 17.99,
+    "XXL": 20.99
+  }
+}]
